@@ -1,0 +1,9 @@
+name: ChalkboardPlugin
+version: ${project.version}
+main: studio.thevipershow.chalkboard.ChalkboardPlugin
+api-version: 1.16
+authors: [ TheViperShow ]
+description: Write on a chalkboard.
+commands:
+  chalkboard:
+    description: Interact with your chalkboards
